@@ -1,0 +1,113 @@
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:1:29: error: textToSpeechApp.h: No such file or directory
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:5: error: 'string' does not name a type
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:34: error: 'osxVoiceOverApp' has not been declared
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp: In function 'void setup()':
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:36: error: 'ofSetWindowTitle' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:39: error: '_pathDirectory' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:39: error: 'getAppPathDirectory' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:42: error: 'universalAccessIcon' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:45: error: 'myraidFont' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:49: error: '_textFile' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:52: error: '_defaultMessage' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:55: error: 'voiceIncrementer' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:58: error: 'map' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:58: error: expected primary-expression before 'int'
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:58: error: expected `;' before 'int'
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:59: error: 'controlsMap' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:63: error: 'controlsVector' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:64: error: 'currentControl' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp: At global scope:
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:69: error: 'osxVoiceOverApp' has not been declared
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp: In function 'void update()':
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:72: error: 'windowWidth' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:72: error: 'ofGetWidth' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:73: error: 'windowHeight' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:73: error: 'ofGetHeight' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:74: error: 'windowCenterX' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:75: error: 'windowCenterY' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp: At global scope:
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:79: error: 'osxVoiceOverApp' has not been declared
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp: In function 'void draw()':
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:85: error: 'GL_QUAD_STRIP' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:85: error: 'glBegin' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:86: error: 'glColor3f' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:87: error: 'glVertex3f' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:88: error: 'windowWidth' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:91: error: 'windowHeight' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:93: error: 'glEnd' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:96: error: 'controlsVector' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:99: error: 'string' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:99: error: expected `;' before 'controls'
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:101: error: 'currentControl' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:102: error: 'ofSetColor' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:104: error: 'ofSetColor' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:107: error: 'myraidFont' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:107: error: 'controls' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:113: error: 'ofPoint' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:113: error: expected `;' before 'vPoint'
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:119: error: 'vPoint' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:119: error: 'windowCenterX' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:119: error: 'ofDegToRad' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:120: error: 'windowCenterY' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:122: error: 'voiceIncrementer' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:123: error: 'ofSetColor' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:125: error: 'ofSetColor' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:128: error: 'ofLine' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:129: error: 'ofPushMatrix' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:130: error: 'ofTranslate' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:131: error: 'ofRotateZ' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:132: error: 'myraidFont' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:132: error: 'voiceArray' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:133: error: 'ofPopMatrix' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:137: error: 'ofSetColor' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:138: error: 'ofEnableAlphaBlending' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:139: error: 'universalAccessIcon' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:139: error: 'windowCenterX' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:139: error: 'windowCenterY' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:140: error: 'ofDisableAlphaBlending' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp: At global scope:
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:144: error: 'osxVoiceOverApp' has not been declared
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:144: error: variable or field 'sayTextToSpeech' declared void
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:144: error: 'string' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:144: error: 'string' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:156: error: 'osxVoiceOverApp' has not been declared
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:156: error: variable or field 'writeTextToSpeech' declared void
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:156: error: 'string' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:156: error: 'string' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:171: error: 'osxVoiceOverApp' has not been declared
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:171: error: variable or field 'loadFromTextFile' declared void
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:171: error: 'string' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:171: error: 'string' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:185: error: 'osxVoiceOverApp' has not been declared
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp: In function 'void changeVoice()':
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:186: error: 'voiceIncrementer' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp: At global scope:
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:191: error: 'osxVoiceOverApp' has not been declared
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp: In function 'void keyPressed(int)':
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:197: error: invalid use of 'this' in non-member function
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:197: error: '_defaultMessage' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:197: error: 'voiceArray' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:197: error: 'voiceIncrementer' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:198: error: 'currentControl' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:198: error: 'controlsVector' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:204: error: invalid use of 'this' in non-member function
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:211: error: invalid use of 'this' in non-member function
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:211: error: '_textFile' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:218: error: invalid use of 'this' in non-member function
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp: At global scope:
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:226: error: 'string' does not name a type
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:242: error: 'osxVoiceOverApp' has not been declared
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp: In function 'void keyReleased(int)':
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:243: error: 'currentControl' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp: At global scope:
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:247: error: 'osxVoiceOverApp' has not been declared
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:252: error: 'osxVoiceOverApp' has not been declared
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:257: error: 'osxVoiceOverApp' has not been declared
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:262: error: 'osxVoiceOverApp' has not been declared
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:267: error: 'osxVoiceOverApp' has not been declared
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:272: error: 'osxVoiceOverApp' has not been declared
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:272: error: variable or field 'gotMessage' declared void
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:272: error: 'ofMessage' was not declared in this scope
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:277: error: 'osxVoiceOverApp' has not been declared
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:277: error: variable or field 'dragEvent' declared void
+/David/Work-David/git_projects/dpr/OpenFrameworks/of_preRelease_v0062_osxSL_FAT/apps/dpr/osxVoiceOver/src/osxVoiceOver.cpp:277: error: 'ofDragInfo' was not declared in this scope

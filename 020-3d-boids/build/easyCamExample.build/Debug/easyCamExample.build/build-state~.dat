@@ -1,0 +1,1691 @@
+TeasyCamExample
+v7
+r0
+t343898062.977601
+cCheck dependencies
+cProcessInfoPlistFile /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin//easyCamExampleDebug.app/Contents/Info.plist openFrameworks-Info.plist
+cProcessPCH++ /var/folders/59/894j4x3x7zxdjflb6v34wqx00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-bebwpqyolqvidtgleodbzontshof/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/main.o /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/testApp.o /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/boid.o /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cPhaseScriptExecution "Run Script" /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+cPBXCp bin/easyCamExampleDebug.app/Contents/Frameworks/GLUT.framework ../../../libs/glut/lib/osx/GLUT.framework
+
+N/Developer-old/usr/include/gcc/darwin/4.2/stdint.h
+c000000004CC3D2C2000000000000190C
+t1287901890
+s6412
+
+N/Developer-old/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004CC3CD100000000000000C7E
+t1287900432
+s3198
+i"syslimits.h"
+
+N/Developer-old/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004CC3CD100000000000003197
+t1287900432
+s12695
+i<machine/ansi.h>
+i<sys/_types.h>
+
+N/Developer-old/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/syslimits.h
+c000000004CC3CB720000000000000155
+t1287900018
+s341
+
+N/System/Library/Frameworks/AGL.framework/AGL
+c000000004E43F408000000000001BA20
+t1313076232
+s113184
+
+N/System/Library/Frameworks/AppKit.framework/AppKit
+c000000004E95FC62000000000234F4A0
+t1318452322
+s37024928
+
+N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c000000004E43F36C000000000000B750
+t1313076076
+s46928
+
+N/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.h
+c000000004DDD56550000000000000477
+t1306351189
+s1143
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004E95FC69000000000039E5E0
+t1318452329
+s3794400
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004E43F36D0000000000006530
+t1313076077
+s25904
+
+N/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004E7A9B9600000000000005FE
+t1316658070
+s1534
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004E43F36D0000000000006560
+t1313076077
+s25952
+
+N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004E95FC6900000000001195D0
+t1318452329
+s1152464
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004E95FC68000000000060E710
+t1318452328
+s6350608
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004E95FC69000000000000B870
+t1318452329
+s47216
+
+N/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
+c000000004DDD49A70000000000000401
+t1306347943
+s1025
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004E95FC74000000000011FDA0
+t1318452340
+s1179040
+
+N/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c000000004E31BCDC00000000000064F9
+t1311882460
+s25849
+
+N/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c000000004E31BCDC0000000000001F41
+t1311882460
+s8001
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004E5454370000000000025633
+t1314149431
+s153139
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004E5454370000000000003F84
+t1314149431
+s16260
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004E95FC7A000000000002D2A0
+t1318452346
+s184992
+
+N/System/Library/Frameworks/QuickTime.framework/Headers/QuickTime.h
+c000000004E72B6870000000000000659
+t1316140679
+s1625
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c000000004E95FC7F000000000032B6C0
+t1318452351
+s3323584
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/../../../libs/glut/lib/osx/GLUT.framework
+c000000004EC71E8700000000000000CC
+t1321672327
+s204
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/../../../libs/glut/lib/osx/GLUT.framework/GLUT
+c000000004D3258300000000000092A98
+t1295145008
+s600728
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin//easyCamExampleDebug.app
+t2
+s0
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin//easyCamExampleDebug.app/Contents/Info.plist
+t1322205259
+s1008
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin//easyCamExampleDebug.app/Contents/MacOS/easyCamExampleDebug
+t2
+s0
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin//easyCamExampleDebug.app/Contents/PkgInfo
+t1322205259
+s8
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin/easyCamExampleDebug.app/Contents/Frameworks/GLUT.framework
+t1322205262
+s204
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/boid.o
+t2
+s0
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/easyCamExampleDebug.LinkFileList
+c000000004ECF404B00000000000001E0
+t1322205259
+s480
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/testApp.o
+t2
+s0
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+c000000004ECF404B0000000000000114
+t1322205259
+s276
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp
+c000000004CB390FE0000000000000D1F
+t1286836478
+s3359
+i"boid.h"
+i"ofMain.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h
+c000000004CAADBA400000000000005D8
+t1286265764
+s1496
+i"ofxVectorMath.h"
+i<vector>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp
+c000000004D5594FA00000000000000A3
+t1297454330
+s163
+i"ofAppGlutWindow.h"
+i"testApp.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp
+c000000004ECF404B00000000000009D0
+t1322205259
+s2512
+i"testApp.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h
+c000000004ECF3FF60000000000000271
+t1322205174
+s625
+i"ofMain.h"
+i"ofxVectorMath.h"
+i<vector>
+i"boid.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/cairo/include/cairo/cairo-deprecated.h
+c000000004D55801800000000000021FA
+t1297448984
+s8698
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/cairo/include/cairo/cairo-features.h
+c000000004D558018000000000000031D
+t1297448984
+s797
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/cairo/include/cairo/cairo-pdf.h
+c000000004D5580180000000000000C24
+t1297448984
+s3108
+i"cairo.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/cairo/include/cairo/cairo-svg.h
+c000000004D5580180000000000000ADD
+t1297448984
+s2781
+i"cairo.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/cairo/include/cairo/cairo-version.h
+c000000004D5580180000000000000094
+t1297448984
+s148
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/cairo/include/cairo/cairo.h
+c000000004D5580180000000000016BCE
+t1297448984
+s93134
+i"cairo-version.h"
+i"cairo-features.h"
+i"cairo-deprecated.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/fmodex/include/fmod.h
+c000000004D3258300000000000028E68
+t1295145008
+s167528
+i"fmod_codec.h"
+i"fmod_dsp.h"
+i"fmod_memoryinfo.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/fmodex/include/fmod_codec.h
+c000000004B1F8992000000000000334A
+t1260358034
+s13130
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/fmodex/include/fmod_dsp.h
+c000000004B1F8992000000000000892F
+t1260358034
+s35119
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/fmodex/include/fmod_errors.h
+c000000004B1F89920000000000003408
+t1260358034
+s13320
+i"fmod.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/fmodex/include/fmod_memoryinfo.h
+c000000004B1F89920000000000003C95
+t1260358034
+s15509
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/glew/include/GL/glew.h
+c000000004D455E0A00000000000C1916
+t1296391690
+s792854
+i<stddef.h>
+i<inttypes.h>
+i<stdint.h>
+i<inttypes.h>
+i<OpenGL/glu.h>
+i<GL/glu.h>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/3d/of3dUtils.h
+c000000004DBAFE04000000000000002B
+t1304100356
+s43
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/3d/ofCamera.h
+c000000004DF297A40000000000000858
+t1307744164
+s2136
+i"ofRectangle.h"
+i"ofAppRunner.h"
+i"ofNode.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/3d/ofEasyCam.h
+c000000004D846164000000000000053C
+t1300521316
+s1340
+i"ofCamera.h"
+i"ofEvents.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/3d/ofMesh.h
+c000000004E15DFD600000000000010DD
+t1310056406
+s4317
+i"ofVec3f.h"
+i"ofVec2f.h"
+i"ofColor.h"
+i"ofUtils.h"
+i"ofConstants.h"
+i"ofGLUtils.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/3d/ofNode.h
+c000000004D597A7C000000000000143C
+t1297709692
+s5180
+i"ofVectorMath.h"
+i"of3dUtils.h"
+i"ofGraphics.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/app/ofAppBaseWindow.h
+c000000004E0F2BC00000000000000590
+t1309617088
+s1424
+i"ofPoint.h"
+i"ofTypes.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/app/ofAppGlutWindow.h
+c000000004E0F2BC000000000000006A5
+t1309617088
+s1701
+i"ofConstants.h"
+i"ofAppBaseWindow.h"
+i"ofEvents.h"
+i"ofTypes.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/app/ofAppRunner.h
+c000000004DD7B3E8000000000000075D
+t1305981928
+s1885
+i"ofConstants.h"
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofTypes.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/app/ofBaseApp.h
+c000000004DD7B3E80000000000000377
+t1305981928
+s887
+i"ofPoint.h"
+i"ofEvents.h"
+i"ofBaseTypes.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/communication/ofArduino.h
+c000000004D8461640000000000004200
+t1300521316
+s16896
+i<list>
+i<vector>
+i<string>
+i<iostream>
+i"ofEvents.h"
+i"ofSerial.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/communication/ofSerial.h
+c000000004DB2F58A0000000000000DA9
+t1303573898
+s3497
+i"ofConstants.h"
+i"ofTypes.h"
+i<termios.h>
+i<winbase.h>
+i<tchar.h>
+i<iostream>
+i<string.h>
+i<setupapi.h>
+i<regstr.h>
+i<winioctl.h>
+i<initguid.h>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/events/ofEventUtils.h
+c000000004DDA87260000000000000DAD
+t1306167078
+s3501
+i"ofConstants.h"
+i"Poco/FIFOEvent.h"
+i"Poco/Delegate.h"
+i<stdio.h>
+i<stdlib.h>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/events/ofEvents.h
+c000000004DB071120000000000001B97
+t1303408914
+s7063
+i"ofConstants.h"
+i"ofPoint.h"
+i"ofEventUtils.h"
+i"ofxEventUtils.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/gl/ofFbo.h
+c000000004E283BD60000000000000E23
+t1311259606
+s3619
+i"ofTexture.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/gl/ofGLRenderer.h
+c000000004E19BFA00000000000001109
+t1310310304
+s4361
+i"ofBaseTypes.h"
+i"ofPolyline.h"
+i<stack>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/gl/ofGLUtils.h
+c000000004E0E00180000000000000B79
+t1309540376
+s2937
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/gl/ofLight.h
+c000000004E0F6A46000000000000084C
+t1309633094
+s2124
+i"ofNode.h"
+i"ofColor.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/gl/ofMaterial.h
+c000000004E0F6A460000000000000555
+t1309633094
+s1365
+i"ofColor.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/gl/ofShader.h
+c000000004E0E5BE00000000000000F82
+t1309563872
+s3970
+i"ofConstants.h"
+i"ofBaseTypes.h"
+i"ofTexture.h"
+i<map>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/gl/ofTexture.h
+c000000004E264F1400000000000010D0
+t1311133460
+s4304
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofBaseTypes.h"
+i"ofConstants.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/gl/ofVbo.h
+c000000004E0F6A460000000000000A19
+t1309633094
+s2585
+i"ofConstants.h"
+i"ofVec3f.h"
+i"ofColor.h"
+i"ofUtils.h"
+i"ofMesh.h"
+i"ofGLUtils.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/gl/ofVboMesh.h
+c000000004DF297A40000000000000114
+t1307744164
+s276
+i"ofMesh.h"
+i"ofVbo.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/graphics/ofCairoRenderer.h
+c000000004E25C43000000000000012BF
+t1311097904
+s4799
+i"cairo-features.h"
+i"cairo-pdf.h"
+i"cairo-svg.h"
+i"cairo.h"
+i<deque>
+i<stack>
+i"ofMatrix4x4.h"
+i"ofBaseTypes.h"
+i"ofPath.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/graphics/ofGraphics.h
+c000000004E1340520000000000001D95
+t1309884498
+s7573
+i"ofConstants.h"
+i"ofColor.h"
+i"ofPoint.h"
+i"ofMatrix4x4.h"
+i"ofRectangle.h"
+i"ofTypes.h"
+i"ofBaseTypes.h"
+i"ofGLRenderer.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/graphics/ofImage.h
+c000000004E15DFD80000000000002014
+t1310056408
+s8212
+i"ofFileUtils.h"
+i"ofTexture.h"
+i"ofPixels.h"
+i"ofBaseTypes.h"
+i"ofConstants.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/graphics/ofPath.h
+c000000004E19BFA0000000000000115A
+t1310310304
+s4442
+i"ofConstants.h"
+i"ofPoint.h"
+i"ofColor.h"
+i"ofPolyline.h"
+i"ofBaseTypes.h"
+i"ofMesh.h"
+i"ofTessellator.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/graphics/ofPixels.h
+c000000004E1622C400000000000012C3
+t1310073540
+s4803
+i"ofConstants.h"
+i"ofUtils.h"
+i"ofColor.h"
+i"ofMath.h"
+i<limits>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/graphics/ofPolyline.h
+c000000004E19BFA00000000000000E9D
+t1310310304
+s3741
+i"ofPoint.h"
+i"ofConstants.h"
+i<deque>
+i"ofRectangle.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/graphics/ofRendererCollection.h
+c000000004E19BFA000000000000027C6
+t1310310304
+s10182
+i"ofBaseTypes.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/graphics/ofTessellator.h
+c000000004DDA876A0000000000000459
+t1306167146
+s1113
+i"ofConstants.h"
+i"ofMesh.h"
+i"ofTypes.h"
+i"ofPolyline.h"
+i"tesselator.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/graphics/ofTrueTypeFont.h
+c000000004E2319EC00000000000009F5
+t1310923244
+s2549
+i<vector>
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofConstants.h"
+i"ofPath.h"
+i"ofTexture.h"
+i"ofMesh.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/math/ofMath.h
+c000000004E19BFA00000000000000B3D
+t1310310304
+s2877
+i"ofPoint.h"
+i"ofConstants.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/math/ofMatrix3x3.h
+c000000004D5575B80000000000000A4C
+t1297446328
+s2636
+i"ofConstants.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/math/ofMatrix4x4.h
+c000000004D8461640000000000006D64
+t1300521316
+s28004
+i"ofVec3f.h"
+i"ofVec4f.h"
+i"ofQuaternion.h"
+i"ofConstants.h"
+i<cmath>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/math/ofQuaternion.h
+c000000004D84616400000000000033BD
+t1300521316
+s13245
+i"ofConstants.h"
+i"ofVec3f.h"
+i"ofVec4f.h"
+i<cmath>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/math/ofVec2f.h
+c000000004D922FBC000000000000407D
+t1301426108
+s16509
+i"ofConstants.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/math/ofVec3f.h
+c000000004D84616400000000000061A8
+t1300521316
+s25000
+i"ofVec2f.h"
+i"ofVec4f.h"
+i"ofConstants.h"
+i<cmath>
+i<iostream>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/math/ofVec4f.h
+c000000004D5575B80000000000002EC3
+t1297446328
+s11971
+i"ofConstants.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/math/ofVectorMath.h
+c000000004D2F23840000000000000099
+t1294934916
+s153
+i"ofVec2f.h"
+i"ofVec3f.h"
+i"ofVec4f.h"
+i"ofMatrix3x3.h"
+i"ofMatrix4x4.h"
+i"ofQuaternion.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/ofMain.h
+c000000004E283BD60000000000000643
+t1311259606
+s1603
+i"ofConstants.h"
+i"ofFileUtils.h"
+i"ofLog.h"
+i"ofSystemUtils.h"
+i"ofThread.h"
+i"ofURLFileLoader.h"
+i"ofUtils.h"
+i"ofBaseTypes.h"
+i"ofTypes.h"
+i"ofColor.h"
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofMath.h"
+i"ofVectorMath.h"
+i"ofSerial.h"
+i"ofArduino.h"
+i"ofFbo.h"
+i"ofGLRenderer.h"
+i"ofGLUtils.h"
+i"ofLight.h"
+i"ofMaterial.h"
+i"ofShader.h"
+i"ofTexture.h"
+i"ofVbo.h"
+i"ofVboMesh.h"
+i"ofCairoRenderer.h"
+i"ofGraphics.h"
+i"ofImage.h"
+i"ofPath.h"
+i"ofPixels.h"
+i"ofPolyline.h"
+i"ofRendererCollection.h"
+i"ofTessellator.h"
+i"ofTrueTypeFont.h"
+i"ofBaseApp.h"
+i"ofAppRunner.h"
+i"ofSoundStream.h"
+i"ofSoundPlayer.h"
+i"ofVideoGrabber.h"
+i"ofVideoPlayer.h"
+i"ofEvents.h"
+i"of3dUtils.h"
+i"ofCamera.h"
+i"ofEasyCam.h"
+i"ofMesh.h"
+i"ofNode.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/sound/ofBaseSoundPlayer.h
+c000000004D5575B80000000000000366
+t1297446328
+s870
+i"ofConstants.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/sound/ofBaseSoundStream.h
+c000000004D8605E200000000000002D4
+t1300628962
+s724
+i"ofConstants.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/sound/ofFmodSoundPlayer.h
+c000000004E283BD600000000000006B8
+t1311259606
+s1720
+i"ofConstants.h"
+i"ofBaseSoundPlayer.h"
+i"fmod.h"
+i"fmod_errors.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/sound/ofOpenALSoundPlayer.h
+c000000004E283BD60000000000000E5E
+t1311259606
+s3678
+i"ofConstants.h"
+i"ofBaseSoundPlayer.h"
+i"ofEvents.h"
+i"ofThread.h"
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<AL/al.h>
+i<AL/alc.h>
+i"kiss_fft.h"
+i"kiss_fftr.h"
+i<sndfile.h>
+i<mpg123.h>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/sound/ofPASoundStream.h
+c000000004E25C430000000000000052D
+t1311097904
+s1325
+i"ofConstants.h"
+i"ofBaseSoundStream.h"
+i"ofTypes.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/sound/ofRtAudioSoundStream.h
+c000000004E283BD600000000000004A6
+t1311259606
+s1190
+i"ofConstants.h"
+i"ofBaseSoundStream.h"
+i"ofTypes.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/sound/ofSoundPlayer.h
+c000000004E283BD60000000000000637
+t1311259606
+s1591
+i"ofConstants.h"
+i"ofTypes.h"
+i"ofBaseTypes.h"
+i"ofBaseSoundPlayer.h"
+i"ofQuicktimeSoundPlayer.h"
+i"ofFmodSoundPlayer.h"
+i"ofOpenALSoundPlayer.h"
+i"ofxOpenALSoundPlayer.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/sound/ofSoundStream.h
+c000000004E2851A4000000000000067D
+t1311265188
+s1661
+i"ofConstants.h"
+i"ofBaseTypes.h"
+i"ofBaseApp.h"
+i"ofTypes.h"
+i"ofBaseSoundStream.h"
+i"ofRtAudioSoundStream.h"
+i"ofPASoundStream.h"
+i"ofxAndroidSoundStream.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/types/ofBaseTypes.h
+c000000004E19BFA00000000000002EFE
+t1310310304
+s12030
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofConstants.h"
+i"ofColor.h"
+i"ofMesh.h"
+i"ofPixels.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/types/ofColor.h
+c000000004E0F6A4600000000000013FD
+t1309633094
+s5117
+i<limits>
+i"ofMath.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/types/ofPoint.h
+c000000004D846164000000000000003D
+t1300521316
+s61
+i"ofVec3f.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/types/ofRectangle.h
+c000000004DB06E6E0000000000000454
+t1303408238
+s1108
+i"ofPoint.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/types/ofTypes.h
+c000000004E0F6A7A0000000000000D27
+t1309633146
+s3367
+i"ofConstants.h"
+i"ofColor.h"
+i<memory>
+i<tr1/memory>
+i"Poco/Mutex.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/utils/ofConstants.h
+c000000004E2851A400000000000034DF
+t1311265188
+s13535
+i<TargetConditionals.h>
+i<windows.h>
+i"GL\glew.h"
+i"GL\wglew.h"
+i"glu.h"
+i<unistd.h>
+i"GL/glew.h"
+i<OpenGL/gl.h>
+i<ApplicationServices/ApplicationServices.h>
+i<unistd.h>
+i<GL/glew.h>
+i<GL/gl.h>
+i<GL/glx.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<unistd.h>
+i<GLES/gl.h>
+i<GLES/glext.h>
+i"glu.h"
+i"tesselator.h"
+i<cstdlib>
+i<cstdio>
+i<cstdarg>
+i<cmath>
+i<ctime>
+i<cstdlib>
+i<string>
+i<iostream>
+i<vector>
+i<cstring>
+i<sstream>
+i<iomanip>
+i<fstream>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/utils/ofFileUtils.h
+c000000004E25C4300000000000001D56
+t1311097904
+s7510
+i"ofConstants.h"
+i"Poco/File.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/utils/ofLog.h
+c000000004E19BFA000000000000014B0
+t1310310304
+s5296
+i"ofConstants.h"
+i"ofFileUtils.h"
+i"ofTypes.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/utils/ofSystemUtils.h
+c000000004DD7B3E200000000000001AC
+t1305981922
+s428
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/utils/ofThread.h
+c000000004D325832000000000000050C
+t1295145010
+s1292
+i"ofConstants.h"
+i"ofTypes.h"
+i<process.h>
+i<pthread.h>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/utils/ofURLFileLoader.h
+c000000004E283BD600000000000008C4
+t1311259606
+s2244
+i<deque>
+i<queue>
+i"ofThread.h"
+i"ofEvents.h"
+i"ofFileUtils.h"
+i"Poco/Condition.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/utils/ofUtils.h
+c000000004E283BD60000000000001245
+t1311259606
+s4677
+i"ofConstants.h"
+i<bitset>
+i"ofLog.h"
+i<shellapi.h>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/video/ofDirectShowGrabber.h
+c000000004D55801A0000000000000475
+t1297448986
+s1141
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+i"videoInput.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/video/ofGstUtils.h
+c000000004DB06E6E0000000000000FA6
+t1303408238
+s4006
+i"ofConstants.h"
+i<gst/gst.h>
+i<gst/app/gstappsink.h>
+i"ofConstants.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+i"ofTypes.h"
+i"ofEvents.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/video/ofGstVideoGrabber.h
+c000000004D55801A0000000000000542
+t1297448986
+s1346
+i"ofGstUtils.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/video/ofGstVideoPlayer.h
+c000000004DF297A4000000000000059F
+t1307744164
+s1439
+i"ofGstUtils.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/video/ofQtUtils.h
+c000000004D55801A00000000000006B5
+t1297448986
+s1717
+i"ofConstants.h"
+i<QuickTime/QuickTime.h>
+i<CoreServices/CoreServices.h>
+i<ApplicationServices/ApplicationServices.h>
+i<QTML.h>
+i<FixMath.h>
+i<QuickTimeComponents.h>
+i<TextUtils.h>
+i<MediaHandlers.h>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/video/ofQuickTimeGrabber.h
+c000000004D5829EC0000000000000648
+t1297623532
+s1608
+i"ofConstants.h"
+i"ofQtUtils.h"
+i"ofTexture.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/video/ofQuickTimePlayer.h
+c000000004D55801A00000000000008B8
+t1297448986
+s2232
+i"ofConstants.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+i"ofQtUtils.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/video/ofVideoGrabber.h
+c000000004E19BF3C00000000000009ED
+t1310310204
+s2541
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+i"ofTypes.h"
+i"ofiPhoneVideoGrabber.h"
+i"ofQuickTimeGrabber.h"
+i"ofDirectShowGrabber.h"
+i"ofGstVideoGrabber.h"
+i"ofxAndroidVideoGrabber.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/video/ofVideoPlayer.h
+c000000004ECB2CD70000000000000ABE
+t1321938135
+s2750
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofBaseTypes.h"
+i"ofTypes.h"
+i"ofGstVideoPlayer.h"
+i"ofQuickTimePlayer.h"
+i"ofiPhoneVideoPlayer.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/video/ofiPhoneVideoGrabber.h
+c000000004E19BF3C000000000000032C
+t1310310204
+s812
+i"ofVideoGrabber.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/video/ofiPhoneVideoPlayer.h
+c000000004E19BF3C0000000000000612
+t1310310204
+s1554
+i"ofPixels.h"
+i"ofBaseTypes.h"
+i"ofTexture.h"
+i"ofVideoPlayer.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a
+c000000004ECB2CEA0000000001BC7EF8
+t1321938154
+s29130488
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/AbstractDelegate.h
+c000000004D2C9F7A0000000000000B59
+t1294770042
+s2905
+i"Poco/Foundation.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/AbstractEvent.h
+c000000004D2C9F7A0000000000002D7C
+t1294770042
+s11644
+i"Poco/Foundation.h"
+i"Poco/SingletonHolder.h"
+i"Poco/SharedPtr.h"
+i"Poco/ActiveResult.h"
+i"Poco/ActiveMethod.h"
+i"Poco/Mutex.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/ActiveMethod.h
+c000000004D2C9F7A0000000000001C64
+t1294770042
+s7268
+i"Poco/Foundation.h"
+i"Poco/ActiveResult.h"
+i"Poco/ActiveRunnable.h"
+i"Poco/ActiveStarter.h"
+i"Poco/AutoPtr.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/ActiveResult.h
+c000000004D2C9F7A0000000000002E66
+t1294770042
+s11878
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+i"Poco/Event.h"
+i"Poco/RefCountedObject.h"
+i"Poco/Exception.h"
+i<algorithm>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/ActiveRunnable.h
+c000000004D2C9F7A0000000000001785
+t1294770042
+s6021
+i"Poco/Foundation.h"
+i"Poco/ActiveResult.h"
+i"Poco/Runnable.h"
+i"Poco/RefCountedObject.h"
+i"Poco/AutoPtr.h"
+i"Poco/Exception.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/ActiveStarter.h
+c000000004D2C9F7A0000000000000927
+t1294770042
+s2343
+i"Poco/Foundation.h"
+i"Poco/ThreadPool.h"
+i"Poco/ActiveRunnable.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/AtomicCounter.h
+c000000004D8461640000000000001D13
+t1300521316
+s7443
+i"Poco/Foundation.h"
+i"Poco/UnWindows.h"
+i<libkern/OSAtomic.h>
+i"Poco/Mutex.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/AutoPtr.h
+c000000004D2C9F7A0000000000001E0C
+t1294770042
+s7692
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<algorithm>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Bugcheck.h
+c000000004D2C9F7A00000000000014A9
+t1294770042
+s5289
+i"Poco/Foundation.h"
+i<string>
+i<iostream>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/CompareFunctions.h
+c000000004D2C9F7A00000000000007EC
+t1294770042
+s2028
+i"Poco/Foundation.h"
+i<functional>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Condition.h
+c000000004D2C9F7A0000000000001236
+t1294770042
+s4662
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+i"Poco/ScopedUnlock.h"
+i"Poco/Event.h"
+i"Poco/Exception.h"
+i<deque>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Config.h
+c000000004D2C9F7A0000000000000E22
+t1294770042
+s3618
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Delegate.h
+c000000004D2C9F7A0000000000001828
+t1294770042
+s6184
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/FunctionDelegate.h"
+i"Poco/Expire.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Event.h
+c000000004D2C9F7A0000000000000E21
+t1294770042
+s3617
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/Event_WIN32.h"
+i"Poco/Event_POSIX.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Event_POSIX.h
+c000000004D2C9F7A0000000000000A91
+t1294770042
+s2705
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<pthread.h>
+i<errno.h>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Event_WIN32.h
+c000000004D5575B8000000000000093F
+t1297446328
+s2367
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Exception.h
+c000000004D5575B8000000000000283D
+t1297446328
+s10301
+i"Poco/Foundation.h"
+i<stdexcept>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Expire.h
+c000000004D2C9F7A0000000000000D0D
+t1294770042
+s3341
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/Timestamp.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/FIFOEvent.h
+c000000004D2C9F7A0000000000000B15
+t1294770042
+s2837
+i"Poco/AbstractEvent.h"
+i"Poco/FIFOStrategy.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/CompareFunctions.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/FIFOStrategy.h
+c000000004D2C9F7A0000000000001116
+t1294770042
+s4374
+i"Poco/NotificationStrategy.h"
+i<map>
+i<list>
+i<memory>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/File.h
+c000000004D455E0A0000000000001F91
+t1296391690
+s8081
+i"Poco/Foundation.h"
+i"Poco/Timestamp.h"
+i<vector>
+i"File_WINCE.h"
+i"Poco/File_WIN32U.h"
+i"Poco/File_WIN32.h"
+i"Poco/File_UNIX.h"
+i"Poco/File_VMS.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/File_UNIX.h
+c000000004D2C9F7A0000000000000BC1
+t1294770042
+s3009
+i"Poco/Foundation.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/File_VMS.h
+c000000004D2C9F7A0000000000000BBC
+t1294770042
+s3004
+i"Poco/Foundation.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/File_WIN32.h
+c000000004D2C9F7A0000000000000C0C
+t1294770042
+s3084
+i"Poco/Foundation.h"
+i"Poco/Timestamp.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/File_WIN32U.h
+c000000004D2C9F7A0000000000000C2B
+t1294770042
+s3115
+i"Poco/Foundation.h"
+i"Poco/Timestamp.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/File_WINCE.h
+c000000004D2C9F7A0000000000000C2C
+t1294770042
+s3116
+i"Poco/Foundation.h"
+i"Poco/Timestamp.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Foundation.h
+c000000004D5575B800000000000010BE
+t1297446328
+s4286
+i"Poco/Config.h"
+i"Poco/Platform.h"
+i"Poco/Platform_WIN32.h"
+i"Poco/Platform_VMS.h"
+i"Poco/Platform_POSIX.h"
+i"Poco/Bugcheck.h"
+i"Poco/Types.h"
+i<string>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/FunctionDelegate.h
+c000000004D2C9F7A00000000000013C8
+t1294770042
+s5064
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Mutex.h
+c000000004D2C9F7C0000000000001D9F
+t1294770044
+s7583
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/ScopedLock.h"
+i"Poco/Mutex_WINCE.h"
+i"Poco/Mutex_WIN32.h"
+i"Poco/Mutex_POSIX.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Mutex_POSIX.h
+c000000004D5575B80000000000000AC3
+t1297446328
+s2755
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<pthread.h>
+i<errno.h>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Mutex_WIN32.h
+c000000004D5575B80000000000000A04
+t1297446328
+s2564
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Mutex_WINCE.h
+c000000004D2C9F7C0000000000000870
+t1294770044
+s2160
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/NotificationStrategy.h
+c000000004D2C9F7C0000000000000B48
+t1294770044
+s2888
+i"Poco/Foundation.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Platform.h
+c000000004D5575B80000000000001AF7
+t1297446328
+s6903
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Platform_POSIX.h
+c000000004D2C9F7C0000000000000843
+t1294770044
+s2115
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Platform_VMS.h
+c000000004D5575B80000000000000BAA
+t1297446328
+s2986
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Platform_WIN32.h
+c000000004D5575B80000000000000DCF
+t1297446328
+s3535
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/RefCountedObject.h
+c000000004D2C9F7C0000000000000BB1
+t1294770044
+s2993
+i"Poco/Foundation.h"
+i"Poco/AtomicCounter.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Runnable.h
+c000000004D2C9F7C0000000000000861
+t1294770044
+s2145
+i"Poco/Foundation.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/ScopedLock.h
+c000000004D455E0A0000000000000B7F
+t1296391690
+s2943
+i"Poco/Foundation.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/ScopedUnlock.h
+c000000004D2C9F7C000000000000092B
+t1294770044
+s2347
+i"Poco/Foundation.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/SharedPtr.h
+c000000004D5575B80000000000002278
+t1297446328
+s8824
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/AtomicCounter.h"
+i<algorithm>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/SignalHandler.h
+c000000004D2C9F7C00000000000011EB
+t1294770044
+s4587
+i"Poco/Foundation.h"
+i<vector>
+i<setjmp.h>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/SingletonHolder.h
+c000000004D2C9F7C0000000000000A67
+t1294770044
+s2663
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Thread.h
+c000000004D2C9F7C0000000000001E10
+t1294770044
+s7696
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+i"Poco/Thread_WINCE.h"
+i"Poco/Thread_WIN32.h"
+i"Poco/Thread_POSIX.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/ThreadPool.h
+c000000004D2C9F7C0000000000001C8A
+t1294770044
+s7306
+i"Poco/Foundation.h"
+i"Poco/Thread.h"
+i"Poco/Mutex.h"
+i<vector>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Thread_POSIX.h
+c000000004D2C9F7C00000000000013B7
+t1294770044
+s5047
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/SignalHandler.h"
+i"Poco/Event.h"
+i"Poco/RefCountedObject.h"
+i"Poco/AutoPtr.h"
+i<pthread.h>
+i<limits.h>
+i<sys/select.h>
+i<errno.h>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Thread_WIN32.h
+c000000004D5575B80000000000001301
+t1297446328
+s4865
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/UnWindows.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Thread_WINCE.h
+c000000004D2C9F7C0000000000001276
+t1294770044
+s4726
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/UnWindows.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Timestamp.h
+c000000004D2C9F7C0000000000001A41
+t1294770044
+s6721
+i"Poco/Foundation.h"
+i<ctime>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/Types.h
+c000000004D5575B80000000000001926
+t1297446328
+s6438
+i"Poco/Foundation.h"
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/poco/include/Poco/UnWindows.h
+c000000004D2C9F7C0000000000000FC3
+t1294770044
+s4035
+i<windows.h>
+
+N/Users/pkmital/Coding/of_preRelease_v007_osx/libs/tess2/include/tesselator.h
+c000000004E0E166A0000000000001C63
+t1309546090
+s7267
+i<TargetConditionals.h>
+
+N/usr/include/TargetConditionals.h
+c000000004DDD44FB00000000000031E9
+t1306346747
+s12777
+
+N/usr/include/errno.h
+c000000004E360D4B00000000000003EB
+t1312165195
+s1003
+
+N/usr/include/inttypes.h
+c000000004E360D4B0000000000002674
+t1312165195
+s9844
+
+N/usr/include/libkern/OSAtomic.h
+c000000004E360D4B00000000000077C3
+t1312165195
+s30659
+
+N/usr/include/pthread.h
+c000000004E360D4D0000000000003CF0
+t1312165197
+s15600
+
+N/usr/include/setjmp.h
+c000000004E360D4B0000000000000438
+t1312165195
+s1080
+
+N/usr/include/stdio.h
+c000000004E360D4E0000000000004763
+t1312165198
+s18275
+
+N/usr/include/stdlib.h
+c000000004E360D4E00000000000030A7
+t1312165198
+s12455
+
+N/usr/include/string.h
+c000000004E360D4E0000000000001A3A
+t1312165198
+s6714
+
+N/usr/include/sys/_types.h
+c000000004E41FFF40000000000001845
+t1312948212
+s6213
+
+N/usr/include/sys/select.h
+c000000004E41FFE900000000000016A2
+t1312948201
+s5794
+
+N/usr/include/termios.h
+c000000004E360D4B00000000000004D4
+t1312165195
+s1236
+
+N/usr/include/unistd.h
+c000000004E360D4E0000000000006662
+t1312165198
+s26210
+
+N/usr/local/include/sndfile.h
+c000000004DB9D4850000000000005477
+t1304024197
+s21623
+
+N/var/folders/59/894j4x3x7zxdjflb6v34wqx00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-bebwpqyolqvidtgleodbzontshof/Carbon.h.gch
+t1322205261
+s54702032
+
+NopenFrameworks-Info.plist
+c000000004E26C9240000000000000277
+t1311164708
+s631
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies343898059#343898059#0(0"0(0#1#0"4597505456#0"0#
+
+CCompileC build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/boid.o /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s343898061.774204
+e343898062.726390
+r0
+xCompileC
+xbuild/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/boid.o
+x/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:10:
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:14:27: error: ofxVectorMath.h: No such file or directory
+oIn file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:10:
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:24: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:25: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:34: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:35: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:36: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:42: error: expected `)' before '&' token
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:46: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:47: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:64: error: 'ofxVec3f' has not been declared
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:64: error: 'ofxVec3f' has not been declared
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:66: error: 'ofxVec3f' has not been declared
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:66: error: 'ofxVec3f' has not been declared
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: In constructor 'Boid::Boid()':
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:22: error: 'position' was not declared in this scope
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:22: error: 'ofxVec3f' was not declared in this scope
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:23: error: 'velocity' was not declared in this scope
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: At global scope:
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:26: error: expected `)' before '&' token
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:96: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:101: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:106: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:122: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:140: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:158: error: 'ofxVec3f' has not been declared
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:158: error: 'ofxVec3f' has not been declared
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: In member function 'void Boid::update(std::vector<Boid*, std::allocator<Boid*> >&, int&, int&)':
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:160: error: 'velocity' was not declared in this scope
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:160: error: 'separation' was not declared in this scope
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:161: error: 'cohesion' was not declared in this scope
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:162: error: 'alignment' was not declared in this scope
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:165: error: 'position' was not declared in this scope
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: At global scope:
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:168: error: variable or field 'walls' declared void
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:168: error: 'ofxVec3f' was not declared in this scope
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:168: error: 'ofxVec3f' was not declared in this scope
+lSLF07#2@98"Compile /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp343898061#343898062#0(5167"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:10:/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:14:27: error: ofxVectorMath.h: No such file or directoryIn file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:10:/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:24: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:25: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:34: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:35: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:36: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:42: error: expected `)' before '&' token/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:46: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:47: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:64: error: 'ofxVec3f' has not been declared/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:64: error: 'ofxVec3f' has not been declared/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:66: error: 'ofxVec3f' has not been declared/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:66: error: 'ofxVec3f' has not been declared/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: In constructor 'Boid::Boid()':/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:22: error: 'position' was not declared in this scope/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:22: error: 'ofxVec3f' was not declared in this scope/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:23: error: 'velocity' was not declared in this scope/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: At global scope:/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:26: error: expected `)' before '&' token/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:96: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:101: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:106: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:122: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:140: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:158: error: 'ofxVec3f' has not been declared/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:158: error: 'ofxVec3f' has not been declared/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: In member function 'void Boid::update(std::vector<Boid*, std::allocator<Boid*> >&, int&, int&)':/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:160: error: 'velocity' was not declared in this scope/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:160: error: 'separation' was not declared in this scope/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:161: error: 'cohesion' was not declared in this scope/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:162: error: 'alignment' was not declared in this scope/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:165: error: 'position' was not declared in this scope/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: At global scope:/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:168: error: variable or field 'walls' declared void/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:168: error: 'ofxVec3f' was not declared in this scope/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:168: error: 'ofxVec3f' was not declared in this scope34(4@42"OfxVectorMath.h: No such file or directory343898061#117#146#2(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp343898061#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#10#0#10#0#0"0(13@134"OfxVectorMath.h: No such file or directory in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898061#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#14#0#14#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#14#0#14#0#28"*: No such file or directory0(4@31"'ofxVec3f' does not name a type343898062#380#132#2(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#10#0#10#0#0"0(13@123"'ofxVec3f' does not name a type in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#24#0#24#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#24#0#24#0#24"'*' does not name a type0(4@31"'ofxVec3f' does not name a type343898062#512#132#2(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#10#0#10#0#0"0(13@123"'ofxVec3f' does not name a type in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#25#0#25#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#25#0#25#0#24"'*' does not name a type0(4@31"'ofxVec3f' does not name a type343898062#644#132#2(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#10#0#10#0#0"0(13@123"'ofxVec3f' does not name a type in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#34#0#34#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#34#0#34#0#24"'*' does not name a type0(4@31"'ofxVec3f' does not name a type343898062#776#132#2(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#10#0#10#0#0"0(13@123"'ofxVec3f' does not name a type in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#35#0#35#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#35#0#35#0#24"'*' does not name a type0(4@31"'ofxVec3f' does not name a type343898062#908#132#2(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#10#0#10#0#0"0(13@123"'ofxVec3f' does not name a type in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#36#0#36#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#36#0#36#0#24"'*' does not name a type0(4@29"Expected `)' before '&' token343898062#1040#130#2(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#10#0#10#0#0"0(13@121"Expected `)' before '&' token in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#42#0#42#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#42#0#42#0#19"expected * before *0(4@31"'ofxVec3f' does not name a type343898062#1170#132#2(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#10#0#10#0#0"0(13@123"'ofxVec3f' does not name a type in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#46#0#46#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#46#0#46#0#24"'*' does not name a type0(4@31"'ofxVec3f' does not name a type343898062#1302#132#2(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#10#0#10#0#0"0(13@123"'ofxVec3f' does not name a type in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#47#0#47#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#47#0#47#0#24"'*' does not name a type0(4@32"'ofxVec3f' has not been declared343898062#1434#133#2(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#10#0#10#0#0"0(13@124"'ofxVec3f' has not been declared in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#64#0#64#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#64#0#64#0#25"'*' has not been declared0(4@32"'ofxVec3f' has not been declared343898062#1567#133#2(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#10#0#10#0#0"0(13@124"'ofxVec3f' has not been declared in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#64#0#64#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#64#0#64#0#25"'*' has not been declared0(4@32"'ofxVec3f' has not been declared343898062#1700#133#2(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#10#0#10#0#0"0(13@124"'ofxVec3f' has not been declared in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#66#0#66#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#66#0#66#0#25"'*' has not been declared0(4@32"'ofxVec3f' has not been declared343898062#1833#133#2(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#10#0#10#0#0"0(13@124"'ofxVec3f' has not been declared in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#66#0#66#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#66#0#66#0#25"'*' has not been declared0(4@41"'position' was not declared in this scope343898062#2089#144#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#22#0#22#0#34"'*' was not declared in this scope0(4@41"'ofxVec3f' was not declared in this scope343898062#2233#144#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#22#0#22#0#34"'*' was not declared in this scope0(4@41"'velocity' was not declared in this scope343898062#2377#144#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#23#0#23#0#34"'*' was not declared in this scope0(23@16"At global scope:343898062#2521#109#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#0#0#0#0#0"0(4@29"Expected `)' before '&' token343898062#2630#132#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#26#0#26#0#19"expected * before *0(4@31"'ofxVec3f' does not name a type343898062#2762#134#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#96#0#96#0#24"'*' does not name a type0(4@31"'ofxVec3f' does not name a type343898062#2896#135#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#101#0#101#0#24"'*' does not name a type0(4@31"'ofxVec3f' does not name a type343898062#3031#135#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#106#0#106#0#24"'*' does not name a type0(4@31"'ofxVec3f' does not name a type343898062#3166#135#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#122#0#122#0#24"'*' does not name a type0(4@31"'ofxVec3f' does not name a type343898062#3301#135#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#140#0#140#0#24"'*' does not name a type0(4@32"'ofxVec3f' has not been declared343898062#3436#136#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#158#0#158#0#25"'*' has not been declared0(4@32"'ofxVec3f' has not been declared343898062#3572#136#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#158#0#158#0#25"'*' has not been declared0(4@41"'velocity' was not declared in this scope343898062#3897#145#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#160#0#160#0#34"'*' was not declared in this scope0(4@43"'separation' was not declared in this scope343898062#4042#147#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#160#0#160#0#34"'*' was not declared in this scope0(4@41"'cohesion' was not declared in this scope343898062#4189#145#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#161#0#161#0#34"'*' was not declared in this scope0(4@42"'alignment' was not declared in this scope343898062#4334#146#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#162#0#162#0#34"'*' was not declared in this scope0(4@41"'position' was not declared in this scope343898062#4480#145#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#165#0#165#0#34"'*' was not declared in this scope0(23@16"At global scope:343898062#4625#109#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#0#0#0#0#0"0(4@39"Variable or field 'walls' declared void343898062#4734#143#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#168#0#168#0#0"0(4@41"'ofxVec3f' was not declared in this scope343898062#4877#145#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#168#0#168#0#34"'*' was not declared in this scope0(4@41"'ofxVec3f' was not declared in this scope343898062#5022#145#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp308529278#168#0#168#0#34"'*' was not declared in this scope0(0#0#90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp4597505680#2270"    cd /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/easyCamExampleDebug.hmap -F/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin -F/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/../../../libs/glut/lib/osx -I/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtaudio/include -I/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/DerivedSources/i386 -I/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/59/894j4x3x7zxdjflb6v34wqx00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-bebwpqyolqvidtgleodbzontshof/Carbon.h -c /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp -o /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/boid.o1#
+
+CCompileC build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/main.o /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s343898061.771396
+e343898062.853373
+r0
+xCompileC
+xbuild/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/main.o
+x/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp:2:
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h:4:27: error: ofxVectorMath.h: No such file or directory
+oIn file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h:6,
+o                 from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp:2:
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:24: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:25: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:34: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:35: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:36: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:42: error: expected `)' before '&' token
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:46: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:47: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:64: error: 'ofxVec3f' has not been declared
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:64: error: 'ofxVec3f' has not been declared
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:66: error: 'ofxVec3f' has not been declared
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:66: error: 'ofxVec3f' has not been declared
+lSLF07#2@98"Compile /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp343898061#343898062#0(2083"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp:2:/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h:4:27: error: ofxVectorMath.h: No such file or directoryIn file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h:6,                 from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp:2:/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:24: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:25: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:34: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:35: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:36: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:42: error: expected `)' before '&' token/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:46: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:47: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:64: error: 'ofxVec3f' has not been declared/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:64: error: 'ofxVec3f' has not been declared/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:66: error: 'ofxVec3f' has not been declared/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:66: error: 'ofxVec3f' has not been declared13(4@42"OfxVectorMath.h: No such file or directory343898061#116#148#2(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp343898061#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp319147130#2#0#2#0#0"0(13@137"OfxVectorMath.h: No such file or directory in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898061#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#4#0#4#0#0"0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#4#0#4#0#28"*: No such file or directory0(4@31"'ofxVec3f' does not name a type343898062#497#132#3(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp319147130#2#0#2#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@123"'ofxVec3f' does not name a type in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#24#0#24#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#24#0#24#0#24"'*' does not name a type0(4@31"'ofxVec3f' does not name a type343898062#629#132#3(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp319147130#2#0#2#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@123"'ofxVec3f' does not name a type in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#25#0#25#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#25#0#25#0#24"'*' does not name a type0(4@31"'ofxVec3f' does not name a type343898062#761#132#3(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp319147130#2#0#2#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@123"'ofxVec3f' does not name a type in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#34#0#34#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#34#0#34#0#24"'*' does not name a type0(4@31"'ofxVec3f' does not name a type343898062#893#132#3(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp319147130#2#0#2#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@123"'ofxVec3f' does not name a type in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#35#0#35#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#35#0#35#0#24"'*' does not name a type0(4@31"'ofxVec3f' does not name a type343898062#1025#132#3(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp319147130#2#0#2#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@123"'ofxVec3f' does not name a type in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#36#0#36#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#36#0#36#0#24"'*' does not name a type0(4@29"Expected `)' before '&' token343898062#1157#130#3(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp319147130#2#0#2#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@121"Expected `)' before '&' token in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#42#0#42#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#42#0#42#0#19"expected * before *0(4@31"'ofxVec3f' does not name a type343898062#1287#132#3(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp319147130#2#0#2#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@123"'ofxVec3f' does not name a type in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#46#0#46#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#46#0#46#0#24"'*' does not name a type0(4@31"'ofxVec3f' does not name a type343898062#1419#132#3(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp319147130#2#0#2#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@123"'ofxVec3f' does not name a type in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#47#0#47#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#47#0#47#0#24"'*' does not name a type0(4@32"'ofxVec3f' has not been declared343898062#1551#133#3(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp319147130#2#0#2#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@124"'ofxVec3f' has not been declared in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#64#0#64#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#64#0#64#0#25"'*' has not been declared0(4@32"'ofxVec3f' has not been declared343898062#1684#133#3(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp319147130#2#0#2#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@124"'ofxVec3f' has not been declared in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#64#0#64#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#64#0#64#0#25"'*' has not been declared0(4@32"'ofxVec3f' has not been declared343898062#1817#133#3(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp319147130#2#0#2#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@124"'ofxVec3f' has not been declared in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#66#0#66#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#66#0#66#0#25"'*' has not been declared0(4@32"'ofxVec3f' has not been declared343898062#1950#133#3(7@112"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp343898062#18446744073709551615#0#0(6@90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp319147130#2#0#2#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@124"'ofxVec3f' has not been declared in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#66#0#66#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#66#0#66#0#25"'*' has not been declared0(0#0#90"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp4597505680#2270"    cd /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/easyCamExampleDebug.hmap -F/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin -F/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/../../../libs/glut/lib/osx -I/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtaudio/include -I/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/DerivedSources/i386 -I/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/59/894j4x3x7zxdjflb6v34wqx00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-bebwpqyolqvidtgleodbzontshof/Carbon.h -c /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/main.cpp -o /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/main.o1#
+
+CCompileC build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/testApp.o /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s343898061.773166
+e343898062.854073
+r0
+xCompileC
+xbuild/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/testApp.o
+x/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp:1:
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h:4:27: error: ofxVectorMath.h: No such file or directory
+oIn file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h:6,
+o                 from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp:1:
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:24: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:25: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:34: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:35: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:36: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:42: error: expected `)' before '&' token
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:46: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:47: error: 'ofxVec3f' does not name a type
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:64: error: 'ofxVec3f' has not been declared
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:64: error: 'ofxVec3f' has not been declared
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:66: error: 'ofxVec3f' has not been declared
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:66: error: 'ofxVec3f' has not been declared
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp: In member function 'virtual void testApp::update()':
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp:31: error: no matching function for call to 'Boid::update(std::vector<Boid*, std::allocator<Boid*> >&, ofVec3f&, ofVec3f&)'
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:64: note: candidates are: void Boid::update(std::vector<Boid*, std::allocator<Boid*> >&, int&, int&)
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp: In member function 'virtual void testApp::draw()':
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp:43: error: 'class Boid' has no member named 'position'
+o/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp:43: error: 'class Boid' has no member named 'position'
+lSLF07#2@101"Compile /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898061#343898062#0(3089"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp:1:/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h:4:27: error: ofxVectorMath.h: No such file or directoryIn file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h:6,                 from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp:1:/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:24: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:25: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:34: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:35: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:36: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:42: error: expected `)' before '&' token/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:46: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:47: error: 'ofxVec3f' does not name a type/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:64: error: 'ofxVec3f' has not been declared/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:64: error: 'ofxVec3f' has not been declared/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:66: error: 'ofxVec3f' has not been declared/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:66: error: 'ofxVec3f' has not been declared/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp: In member function 'virtual void testApp::update()':/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp:31: error: no matching function for call to 'Boid::update(std::vector<Boid*, std::allocator<Boid*> >&, ofVec3f&, ofVec3f&)'/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:64: note: candidates are: void Boid::update(std::vector<Boid*, std::allocator<Boid*> >&, int&, int&)/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp: In member function 'virtual void testApp::draw()':/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp:43: error: 'class Boid' has no member named 'position'/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp:43: error: 'class Boid' has no member named 'position'17(4@42"OfxVectorMath.h: No such file or directory343898061#119#148#2(7@115"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898061#18446744073709551615#0#0(6@93"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898059#1#0#1#0#0"0(13@137"OfxVectorMath.h: No such file or directory in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898061#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#4#0#4#0#0"0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#4#0#4#0#28"*: No such file or directory0(4@31"'ofxVec3f' does not name a type343898062#503#132#3(7@115"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898062#18446744073709551615#0#0(6@93"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898059#1#0#1#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@123"'ofxVec3f' does not name a type in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#24#0#24#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#24#0#24#0#24"'*' does not name a type0(4@31"'ofxVec3f' does not name a type343898062#635#132#3(7@115"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898062#18446744073709551615#0#0(6@93"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898059#1#0#1#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@123"'ofxVec3f' does not name a type in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#25#0#25#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#25#0#25#0#24"'*' does not name a type0(4@31"'ofxVec3f' does not name a type343898062#767#132#3(7@115"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898062#18446744073709551615#0#0(6@93"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898059#1#0#1#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@123"'ofxVec3f' does not name a type in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#34#0#34#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#34#0#34#0#24"'*' does not name a type0(4@31"'ofxVec3f' does not name a type343898062#899#132#3(7@115"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898062#18446744073709551615#0#0(6@93"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898059#1#0#1#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@123"'ofxVec3f' does not name a type in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#35#0#35#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#35#0#35#0#24"'*' does not name a type0(4@31"'ofxVec3f' does not name a type343898062#1031#132#3(7@115"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898062#18446744073709551615#0#0(6@93"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898059#1#0#1#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@123"'ofxVec3f' does not name a type in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#36#0#36#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#36#0#36#0#24"'*' does not name a type0(4@29"Expected `)' before '&' token343898062#1163#130#3(7@115"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898062#18446744073709551615#0#0(6@93"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898059#1#0#1#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@121"Expected `)' before '&' token in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#42#0#42#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#42#0#42#0#19"expected * before *0(4@31"'ofxVec3f' does not name a type343898062#1293#132#3(7@115"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898062#18446744073709551615#0#0(6@93"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898059#1#0#1#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@123"'ofxVec3f' does not name a type in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#46#0#46#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#46#0#46#0#24"'*' does not name a type0(4@31"'ofxVec3f' does not name a type343898062#1425#132#3(7@115"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898062#18446744073709551615#0#0(6@93"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898059#1#0#1#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@123"'ofxVec3f' does not name a type in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#47#0#47#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#47#0#47#0#24"'*' does not name a type0(4@32"'ofxVec3f' has not been declared343898062#1557#133#3(7@115"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898062#18446744073709551615#0#0(6@93"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898059#1#0#1#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@124"'ofxVec3f' has not been declared in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#64#0#64#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#64#0#64#0#25"'*' has not been declared0(4@32"'ofxVec3f' has not been declared343898062#1690#133#3(7@115"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898062#18446744073709551615#0#0(6@93"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898059#1#0#1#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@124"'ofxVec3f' has not been declared in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#64#0#64#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#64#0#64#0#25"'*' has not been declared0(4@32"'ofxVec3f' has not been declared343898062#1823#133#3(7@115"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898062#18446744073709551615#0#0(6@93"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898059#1#0#1#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@124"'ofxVec3f' has not been declared in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#66#0#66#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#66#0#66#0#25"'*' has not been declared0(4@32"'ofxVec3f' has not been declared343898062#1956#133#3(7@115"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898062#18446744073709551615#0#0(6@93"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898059#1#0#1#0#0"0(7@113"In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343898062#18446744073709551615#0#0(6@91"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.h343897974#6#0#6#0#0"0(13@124"'ofxVec3f' has not been declared in /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h343898062#18446744073709551615#0#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#66#0#66#0#0"0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#66#0#66#0#25"'*' has not been declared0(4@112"No matching function for call to 'Boid::update(std::vector<Boid*, std::allocator<Boid*> >&, ofVec3f&, ofVec3f&)'343898062#2237#218#0(6@93"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898059#31#0#31#0#0"0(13@90"Candidates are: void Boid::update(std::vector<Boid*, std::allocator<Boid*> >&, int&, int&)343898062#2455#190#0(6@88"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h307958564#64#0#64#0#0"0(4@43"'class Boid' has no member named 'position'343898062#2791#149#0(6@93"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898059#43#0#43#0#27"'*' has no member named '*'0(4@43"'class Boid' has no member named 'position'343898062#2940#149#0(6@93"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp343898059#43#0#43#0#27"'*' has no member named '*'0(0#0#93"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp4597505680#2276"    cd /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/easyCamExampleDebug.hmap -F/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin -F/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/../../../libs/glut/lib/osx -I/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtaudio/include -I/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/DerivedSources/i386 -I/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/59/894j4x3x7zxdjflb6v34wqx00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-bebwpqyolqvidtgleodbzontshof/Carbon.h -c /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/testApp.cpp -o /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/testApp.o1#
+
+CLd /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin//easyCamExampleDebug.app/Contents/MacOS/easyCamExampleDebug normal i386
+r0
+
+CPBXCp bin/easyCamExampleDebug.app/Contents/Frameworks/GLUT.framework ../../../libs/glut/lib/osx/GLUT.framework
+s343898062.902645
+e343898062.977547
+r1
+xPBXCp
+xbin/easyCamExampleDebug.app/Contents/Frameworks/GLUT.framework
+x../../../libs/glut/lib/osx/GLUT.framework
+lSLF07#2@46"Copy ../../../libs/glut/lib/osx/GLUT.framework343898062#343898062#0(0"0(0#0#119"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/../../../libs/glut/lib/osx/GLUT.framework4597505680#497"    cd /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/../../../libs/glut/lib/osx/GLUT.framework /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin/easyCamExampleDebug.app/Contents/Frameworks0#
+
+CPhaseScriptExecution "Run Script" /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+s343898062.854125
+e343898062.902551
+r0
+xPhaseScriptExecution
+xRun Script
+x/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+ocp: /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin//easyCamExampleDebug.app/Contents/MacOS/libfmodex.dylib: No such file or directory
+oinstall_name_tool: can't open file: /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin//easyCamExampleDebug.app/Contents/MacOS/easyCamExampleDebug (No such file or directory)
+lSLF07#2@36"Run custom shell script 'Run Script'343898062#343898062#0(375"cp: /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin//easyCamExampleDebug.app/Contents/MacOS/libfmodex.dylib: No such file or directoryinstall_name_tool: can't open file: /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin//easyCamExampleDebug.app/Contents/MacOS/easyCamExampleDebug (No such file or directory)2(4@168"Cp: /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin//easyCamExampleDebug.app/Contents/MacOS/libfmodex.dylib: No such file or directory343898062#0#169#0(1@0"0(13@206"install_name_tool: can't open file: /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin//easyCamExampleDebug.app/Contents/MacOS/easyCamExampleDebug (No such file or directory)343898062#169#206#0(1@0"0(0#0#0"4597505680#22592"    cd /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER pkmital    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386"    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_STANDARD_64_BIT x86_64    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build    setenv BUILD_ROOT /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin/    setenv CACHE_ROOT /var/folders/59/894j4x3x7zxdjflb6v34wqx00000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/59/894j4x3x7zxdjflb6v34wqx00000gn/C/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin//easyCamExampleDebug.app    setenv CODE_SIGNING_ALLOWED YES    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/59/894j4x3x7zxdjflb6v34wqx00000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin/    setenv CONFIGURATION_TEMP_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug    setenv CONTENTS_FOLDER_PATH easyCamExampleDebug.app/Contents    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer-old/Applications    setenv DEVELOPER_BIN_DIR /Developer-old/usr/bin    setenv DEVELOPER_DIR /Developer-old    setenv DEVELOPER_FRAMEWORKS_DIR /Developer-old/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer-old/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer-old/Library    setenv DEVELOPER_SDK_DIR /Developer-old/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer-old/Tools    setenv DEVELOPER_USR_DIR /Developer-old/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH easyCamExampleDebug.app/Contents/Resources/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/easyCamExample.dst    setenv DWARF_DSYM_FILE_NAME easyCamExampleDebug.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin/    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH easyCamExampleDebug.app/Contents/Executables    setenv EXECUTABLE_FOLDER_PATH easyCamExampleDebug.app/Contents/MacOS    setenv EXECUTABLE_NAME easyCamExampleDebug    setenv EXECUTABLE_PATH easyCamExampleDebug.app/Contents/MacOS/easyCamExampleDebug    setenv FILE_LIST /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH easyCamExampleDebug.app/Contents/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin/\"  \"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/../../../libs/glut/lib/osx\""    setenv FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 "\"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/../../../libs/glut/lib/osx\""    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME easyCamExampleDebug.app    setenv GCC3_VERSION 3.3    setenv GCC_AUTO_VECTORIZATION YES    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_FIX_AND_CONTINUE YES    setenv GCC_ENABLE_SSE3_EXTENSIONS YES    setenv GCC_ENABLE_SUPPLEMENTAL_SSE3_INSTRUCTIONS YES    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN NO    setenv GCC_MODEL_TUNING G4    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_WARN_ABOUT_DEPRECATED_FUNCTIONS NO    setenv GCC_WARN_ABOUT_INVALID_OFFSETOF_MACRO NO    setenv GCC_WARN_ALLOW_INCOMPLETE_PROTOCOL NO    setenv GCC_WARN_UNINITIALIZED_AUTOS NO    setenv GCC_WARN_UNUSED_VALUE NO    setenv GCC_WARN_UNUSED_VARIABLE NO    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_CAIRO "\"../../../libs/cairo/include/cairo\""    setenv HEADER_FMODEX "\"../../../libs/fmodex/include\""    setenv HEADER_FREEIMAGE "\"../../../libs/FreeImage/include\""    setenv HEADER_FREETYPE "\"../../../libs/freetype/include\""    setenv HEADER_FREETYPE2 "\"../../../libs/freetype/include/freetype2\""    setenv HEADER_GLEW "\"../../../libs/glew/include\""    setenv HEADER_OF "\"../../../libs/openFrameworks/**\""    setenv HEADER_POCO "\"../../../libs/poco/include\""    setenv HEADER_RTAUDIO "\"../../../libs/rtaudio/include\""    setenv HEADER_SEARCH_PATHS "\"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin//include\" \"../../../libs/openFrameworks/**\" \"../../../libs/poco/include\" \"../../../libs/freetype/include\" \"../../../libs/freetype/include/freetype2\" \"../../../libs/fmodex/include\" \"../../../libs/glew/include\" \"../../../libs/FreeImage/include\" \"../../../libs/tess2/include\" \"../../../libs/cairo/include/cairo\" \"../../../libs/rtaudio/include\""    setenv HEADER_TESS2 "\"../../../libs/tess2/include\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE openFrameworks-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH easyCamExampleDebug.app/Contents/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH easyCamExampleDebug.app/Contents/Resources/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/easyCamExample.dst/Users/pkmital/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER pkmital    setenv INSTALL_PATH /Users/pkmital/Applications    setenv INSTALL_ROOT /tmp/easyCamExample.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH easyCamExampleDebug.app/Contents/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/easyCamExampleDebug-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer-old/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin/\"                                                              "    setenv LIB_CAIRO1 "\"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\""    setenv LIB_CAIRO2 "\"../../../libs/cairo/lib/osx/cairo.a\""    setenv LIB_CAIRO3 "\"../../../libs/cairo/lib/osx/pixman-1.a\""    setenv LIB_FMODEX "\"../../../libs/fmodex/lib/osx/libfmodex.dylib\""    setenv LIB_FREEIMAGE "\"../../../libs/FreeImage/lib/osx/freeimage.a\""    setenv LIB_FREETYPE "\"../../../libs/freetype/lib/osx/freetype.a\""    setenv LIB_GLEW "\"../../../libs/glew/lib/osx/glew.a\""    setenv LIB_GLUT "\"../../../libs/glut/lib/osx/GLUT.framework/Versions/A/GLUT\""    setenv LIB_POCOFOUNDATION "\"../../../libs/poco/lib/osx/PocoFoundation.a\""    setenv LIB_POCONET "\"../../../libs/poco/lib/osx/PocoNet.a\""    setenv LIB_POCOUTIL "\"../../../libs/poco/lib/osx/PocoUtil.a\""    setenv LIB_POCOXML "\"../../../libs/poco/lib/osx/PocoXML.a\""    setenv LIB_RTAUDIO "\"../../../libs/rtAudio/lib/osx/rtAudio.a\""    setenv LIB_TESS "\"../../../libs/tess2/lib/osx/tess2.a\""    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/easyCamExampleDebug.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH easyCamExampleDebug.app/Contents/Resources/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 11C74    setenv MAC_OS_X_VERSION_ACTUAL 1072    setenv MAC_OS_X_VERSION_MAJOR 1070    setenv MAC_OS_X_VERSION_MINOR 0702    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal    setenv OBJROOT /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build    setenv OF_CORE_HEADERS "\"../../../libs/openFrameworks/**\" \"../../../libs/poco/include\" \"../../../libs/freetype/include\" \"../../../libs/freetype/include/freetype2\" \"../../../libs/fmodex/include\" \"../../../libs/glew/include\" \"../../../libs/FreeImage/include\" \"../../../libs/tess2/include\" \"../../../libs/cairo/include/cairo\" \"../../../libs/rtaudio/include\""    setenv OF_CORE_LIBS "\"../../../libs/poco/lib/osx/PocoFoundation.a\" \"../../../libs/poco/lib/osx/PocoNet.a\" \"../../../libs/poco/lib/osx/PocoXML.a\" \"../../../libs/poco/lib/osx/PocoUtil.a\" \"../../../libs/tess2/lib/osx/tess2.a\" \"../../../libs/glew/lib/osx/glew.a\" \"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\" \"../../../libs/cairo/lib/osx/cairo.a\" \"../../../libs/cairo/lib/osx/pixman-1.a\" \"../../../libs/fmodex/lib/osx/libfmodex.dylib\" \"../../../libs/rtAudio/lib/osx/rtAudio.a\""    setenv OF_PATH ../../..    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CPLUSPLUSFLAGS "-D__MACOSX_CORE__ -lpthread"    setenv OTHER_LDFLAGS "\"../../../libs/poco/lib/osx/PocoFoundation.a\" \"../../../libs/poco/lib/osx/PocoNet.a\" \"../../../libs/poco/lib/osx/PocoXML.a\" \"../../../libs/poco/lib/osx/PocoUtil.a\" \"../../../libs/tess2/lib/osx/tess2.a\" \"../../../libs/glew/lib/osx/glew.a\" \"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\" \"../../../libs/cairo/lib/osx/cairo.a\" \"../../../libs/cairo/lib/osx/pixman-1.a\" \"../../../libs/fmodex/lib/osx/libfmodex.dylib\" \"../../../libs/rtAudio/lib/osx/rtAudio.a\""    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer-old/Headers /Developer-old/SDKs /Developer-old/Platforms"    setenv PBDEVELOPMENTPLIST_PATH easyCamExampleDebug.app/Contents/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS c++    setenv PKGINFO_FILE_PATH /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/PkgInfo    setenv PKGINFO_PATH easyCamExampleDebug.app/Contents/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer-old/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer-old/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer-old/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer-old/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer-old/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer-old/usr    setenv PLATFORM_NAME macosx    setenv PLATFORM_PRODUCT_BUILD_VERSION 10M2518    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH easyCamExampleDebug.app/Contents/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH easyCamExampleDebug.app/Contents/PrivateHeaders    setenv PRODUCT_NAME easyCamExampleDebug    setenv PRODUCT_SETTINGS_PATH /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/openFrameworks-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT easyCamExample    setenv PROJECT_DERIVED_FILE_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/DerivedSources    setenv PROJECT_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids    setenv PROJECT_FILE_PATH /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/easyCamExample.xcodeproj    setenv PROJECT_NAME easyCamExample    setenv PROJECT_TEMP_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build    setenv PUBLIC_HEADERS_FOLDER_PATH easyCamExampleDebug.app/Contents/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin/\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH easyCamExampleDebug.app/Contents/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT     setenv SDK_PRODUCT_BUILD_VERSION 11C74    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin//DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH easyCamExampleDebug.app/Contents/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/59/894j4x3x7zxdjflb6v34wqx00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH easyCamExampleDebug.app/Contents/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids    setenv SRCROOT /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SYMBOL_REPOSITORY_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/SymbolRepositories    setenv SYMROOT /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer-old/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer-old/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer-old/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer-old    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer-old/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer-old/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer-old/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer-old/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer-old/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer-old/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer-old/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer-old/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer-old/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer-old/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME easyCamExample    setenv TARGET_BUILD_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin/    setenv TARGET_NAME easyCamExample    setenv TARGET_TEMP_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build    setenv TEMP_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build    setenv TEMP_FILES_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build    setenv TEMP_FILE_DIR /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build    setenv TEMP_ROOT /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH easyCamExampleDebug.app/Contents/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER pkmital    setenv USER_APPS_DIR /Users/pkmital/Applications    setenv USER_LIBRARY_DIR /Users/pkmital/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 ppc ppc64 ppc7400 ppc970 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH easyCamExampleDebug.app/Contents/version.plist    setenv VERSION_INFO_BUILDER pkmital    setenv VERSION_INFO_FILE easyCamExampleDebug_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:easyCamExampleDebug  PROJECT:easyCamExample-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME easyCamExampleDebug.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer-old/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2518    setenv XCODE_VERSION_ACTUAL 0400    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0400    setenv YACC /Developer-old/usr/bin/yacc    /bin/sh -c /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh1#
+
+CProcessInfoPlistFile /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin//easyCamExampleDebug.app/Contents/Info.plist openFrameworks-Info.plist
+s343898059.571668
+e343898059.574255
+r1
+xProcessInfoPlistFile
+x/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin//easyCamExampleDebug.app/Contents/Info.plist
+xopenFrameworks-Info.plist
+lSLF07#2@33"Process openFrameworks-Info.plist343898059#343898059#0(0"0(0#0#103"/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/openFrameworks-Info.plist4597505792#444"    cd /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids    builtin-infoPlistUtility openFrameworks-Info.plist -genpkginfo /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin//easyCamExampleDebug.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin//easyCamExampleDebug.app/Contents/Info.plist0#
+
+CProcessPCH++ /var/folders/59/894j4x3x7zxdjflb6v34wqx00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-bebwpqyolqvidtgleodbzontshof/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
+s343898059.574326
+e343898061.771182
+r1
+xProcessPCH++
+x/var/folders/59/894j4x3x7zxdjflb6v34wqx00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-bebwpqyolqvidtgleodbzontshof/Carbon.h.gch
+x/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@71"Precompile /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h343898059#343898061#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#60"/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h4597505680#2083"    cd /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/easyCamExampleDebug.hmap -F/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin -F/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/../../../libs/glut/lib/osx -I/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtaudio/include -I/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/DerivedSources/i386 -I/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/build/easyCamExample.build/Debug/easyCamExample.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h -o /var/folders/59/894j4x3x7zxdjflb6v34wqx00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-bebwpqyolqvidtgleodbzontshof/Carbon.h.gch0#
+
+CTouch /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/bin//easyCamExampleDebug.app
+r0
+

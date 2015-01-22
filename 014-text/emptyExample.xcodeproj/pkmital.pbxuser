@@ -1,0 +1,264 @@
+// !$*UTF8*$!
+{
+	8922B93F147CD37A00AA0034 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8922B940147CD37A00AA0034 /* ofTrueTypeFont.h */;
+		name = "ofTrueTypeFont.h: 61";
+		rLen = 6;
+		rLoc = 1435;
+		rType = 0;
+		vrLen = 1012;
+		vrLoc = 998;
+	};
+	8922B940147CD37A00AA0034 /* ofTrueTypeFont.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofTrueTypeFont.h;
+		path = /Users/pkmital/Coding/of_preRelease_v007_osx/libs/openFrameworks/graphics/ofTrueTypeFont.h;
+		sourceTree = "<absolute>";
+	};
+	8922B970147CD53900AA0034 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 89F48D00147CCD8B005E9CED /* maximilian.h */;
+		name = "maximilian.h: 52";
+		rLen = 12;
+		rLoc = 1730;
+		rType = 0;
+		vrLen = 989;
+		vrLoc = 1533;
+	};
+	8922B971147CD53900AA0034 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 103";
+		rLen = 0;
+		rLoc = 2129;
+		rType = 0;
+		vrLen = 972;
+		vrLoc = 0;
+	};
+	8922BA65147CE11B00AA0034 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1F0A3A1BDC003C02F2 /* testApp.h */;
+		name = "testApp.h: 1";
+		rLen = 166;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 166;
+		vrLoc = 0;
+	};
+	8922BA66147CE11B00AA0034 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 15";
+		rLen = 0;
+		rLoc = 356;
+		rType = 0;
+		vrLen = 1068;
+		vrLoc = 0;
+	};
+	8922BA67147CE11B00AA0034 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 1";
+		rLen = 2129;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1068;
+		vrLoc = 0;
+	};
+	8922BA68147CE11B00AA0034 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 89F48D00147CCD8B005E9CED /* maximilian.h */;
+		name = "maximilian.h: 52";
+		rLen = 12;
+		rLoc = 1730;
+		rType = 0;
+		vrLen = 989;
+		vrLoc = 1533;
+	};
+	8922BA69147CE11B00AA0034 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 77";
+		rLen = 0;
+		rLoc = 2129;
+		rType = 0;
+		vrLen = 1376;
+		vrLoc = 0;
+	};
+	897AFC94147760BC00D6EE2E /* emptyExample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = emptyExample;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	897AFCAA147760C200D6EE2E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	897AFCAB147760C200D6EE2E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	89CF0E6B147B67DD002DD7F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4EB6923138AFD0F00A09F29 /* Project.xcconfig */;
+		name = "Project.xcconfig: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 270;
+		vrLoc = 0;
+	};
+	89F48D00147CCD8B005E9CED /* maximilian.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {595, 5026}}";
+			sepNavSelRange = "{1730, 12}";
+			sepNavVisRange = "{1533, 989}";
+			sepNavWindowFrame = "{{1789, 132}, {654, 768}}";
+		};
+	};
+	89F48D0B147CCE70005E9CED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1D0A3A1BDC003C02F2 /* main.cpp */;
+		name = "main.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 414;
+		vrLoc = 0;
+	};
+	89F48D1E147CCE84005E9CED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1F0A3A1BDC003C02F2 /* testApp.h */;
+		name = "testApp.h: 25";
+		rLen = 0;
+		rLoc = 162;
+		rType = 0;
+		vrLen = 166;
+		vrLoc = 0;
+	};
+	E4B69B4C0A3A1720003C02F2 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 897AFC94147760BC00D6EE2E /* emptyExample */;
+		activeTarget = E4B69B5A0A3A1756003C02F2 /* emptyExample */;
+		addToTargets = (
+			E4B69B5A0A3A1756003C02F2 /* emptyExample */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 897AFCAB147760C200D6EE2E /* Code sense */;
+		executables = (
+			897AFC94147760BC00D6EE2E /* emptyExample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					405,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 343810695;
+			PBXWorkspaceStateSaveDate = 343810695;
+		};
+		perUserProjectItems = {
+			8922B93F147CD37A00AA0034 = 8922B93F147CD37A00AA0034 /* PBXTextBookmark */;
+			8922B970147CD53900AA0034 = 8922B970147CD53900AA0034 /* PBXTextBookmark */;
+			8922B971147CD53900AA0034 = 8922B971147CD53900AA0034 /* PBXTextBookmark */;
+			8922BA65147CE11B00AA0034 = 8922BA65147CE11B00AA0034 /* PBXTextBookmark */;
+			8922BA66147CE11B00AA0034 = 8922BA66147CE11B00AA0034 /* PBXTextBookmark */;
+			8922BA67147CE11B00AA0034 = 8922BA67147CE11B00AA0034 /* PBXTextBookmark */;
+			8922BA68147CE11B00AA0034 = 8922BA68147CE11B00AA0034 /* PBXTextBookmark */;
+			8922BA69147CE11B00AA0034 = 8922BA69147CE11B00AA0034 /* PBXTextBookmark */;
+			89CF0E6B147B67DD002DD7F2 = 89CF0E6B147B67DD002DD7F2 /* PBXTextBookmark */;
+			89F48D0B147CCE70005E9CED = 89F48D0B147CCE70005E9CED /* PBXTextBookmark */;
+			89F48D1E147CCE84005E9CED = 89F48D1E147CCE84005E9CED /* PBXTextBookmark */;
+		};
+		sourceControlManager = 897AFCAA147760C200D6EE2E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E4B69B5A0A3A1756003C02F2 /* emptyExample */ = {
+		activeExec = 0;
+		executables = (
+			897AFC94147760BC00D6EE2E /* emptyExample */,
+		);
+	};
+	E4B69E1D0A3A1BDC003C02F2 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {663, 562}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 414}";
+		};
+	};
+	E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 1078}}";
+			sepNavSelRange = "{358, 0}";
+			sepNavVisRange = "{0, 1376}";
+		};
+	};
+	E4B69E1F0A3A1BDC003C02F2 /* testApp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {595, 664}}";
+			sepNavSelRange = "{127, 33}";
+			sepNavVisRange = "{0, 166}";
+		};
+	};
+	E4EB6923138AFD0F00A09F29 /* Project.xcconfig */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 140}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 270}";
+		};
+	};
+}

@@ -1,0 +1,67 @@
+In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:10:
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:14:27: error: ofxVectorMath.h: No such file or directory
+In file included from /Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:10:
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:24: error: 'ofxVec3f' does not name a type
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:25: error: 'ofxVec3f' does not name a type
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:34: error: 'ofxVec3f' does not name a type
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:35: error: 'ofxVec3f' does not name a type
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:36: error: 'ofxVec3f' does not name a type
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:42: error: expected `)' before '&' token
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:46: error: 'ofxVec3f' does not name a type
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:47: error: 'ofxVec3f' does not name a type
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:64: error: 'ofxVec3f' has not been declared
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:64: error: 'ofxVec3f' has not been declared
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:66: error: 'ofxVec3f' has not been declared
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:66: error: 'ofxVec3f' has not been declared
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: In constructor 'Boid::Boid()':
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:22: error: 'position' was not declared in this scope
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:23: error: 'velocity' was not declared in this scope
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: At global scope:
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:26: error: prototype for 'Boid::Boid(ofVec3f&, ofVec3f&)' does not match any in class 'Boid'
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:19: error: candidates are: Boid::Boid(const Boid&)
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:13: error:                 Boid::Boid()
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: In constructor 'Boid::Boid(ofVec3f&, ofVec3f&)':
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:35: error: 'position' was not declared in this scope
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:36: error: 'velocity' was not declared in this scope
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: At global scope:
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:96: error: no 'ofVec3f Boid::getPosition()' member function declared in class 'Boid'
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: In member function 'ofVec3f Boid::getPosition()':
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:98: error: 'position' was not declared in this scope
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: At global scope:
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:101: error: no 'ofVec3f Boid::getVelocity()' member function declared in class 'Boid'
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: In member function 'ofVec3f Boid::getVelocity()':
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:103: error: 'velocity' was not declared in this scope
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: At global scope:
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:106: error: no 'ofVec3f Boid::separation(std::vector<Boid*, std::allocator<Boid*> >&)' member function declared in class 'Boid'
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: In member function 'ofVec3f Boid::separation(std::vector<Boid*, std::allocator<Boid*> >&)':
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:113: error: 'position' was not declared in this scope
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: At global scope:
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:122: error: no 'ofVec3f Boid::cohesion(std::vector<Boid*, std::allocator<Boid*> >&)' member function declared in class 'Boid'
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: In member function 'ofVec3f Boid::cohesion(std::vector<Boid*, std::allocator<Boid*> >&)':
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:128: error: 'position' was not declared in this scope
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:135: error: 'position' was not declared in this scope
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: At global scope:
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:140: error: no 'ofVec3f Boid::alignment(std::vector<Boid*, std::allocator<Boid*> >&)' member function declared in class 'Boid'
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: In member function 'ofVec3f Boid::alignment(std::vector<Boid*, std::allocator<Boid*> >&)':
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:146: error: 'position' was not declared in this scope
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:153: error: 'velocity' was not declared in this scope
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: At global scope:
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:158: error: prototype for 'void Boid::update(std::vector<Boid*, std::allocator<Boid*> >&, ofVec3f&, ofVec3f&)' does not match any in class 'Boid'
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:64: error: candidate is: void Boid::update(std::vector<Boid*, std::allocator<Boid*> >&, int&, int&)
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: In member function 'void Boid::update(std::vector<Boid*, std::allocator<Boid*> >&, ofVec3f&, ofVec3f&)':
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:160: error: 'velocity' was not declared in this scope
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:164: error: no matching function for call to 'Boid::walls(ofVec3f&, ofVec3f&)'
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:66: note: candidates are: void Boid::walls(int&, int&)
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:165: error: 'position' was not declared in this scope
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: At global scope:
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:168: error: prototype for 'void Boid::walls(ofVec3f&, ofVec3f&)' does not match any in class 'Boid'
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.h:66: error: candidate is: void Boid::walls(int&, int&)
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: In member function 'void Boid::walls(ofVec3f&, ofVec3f&)':
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:170: error: 'position' was not declared in this scope
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:172: error: 'velocity' was not declared in this scope
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:175: error: 'velocity' was not declared in this scope
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:178: error: 'position' was not declared in this scope
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:180: error: 'velocity' was not declared in this scope
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:183: error: 'velocity' was not declared in this scope
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp: In member function 'void Boid::draw()':
+/Users/pkmital/Coding/of_preRelease_v007_osx/apps/CEMA_annotated/020-3d-boids/src/boid.cpp:192: error: 'position' was not declared in this scope

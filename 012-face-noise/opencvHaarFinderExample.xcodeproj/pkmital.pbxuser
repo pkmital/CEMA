@@ -1,0 +1,227 @@
+// !$*UTF8*$!
+{
+	89F487F0147B9046005E9CED /* ofxCvBlob.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 770}}";
+			sepNavSelRange = "{330, 18}";
+			sepNavVisRange = "{0, 1330}";
+			sepNavWindowFrame = "{{19, 60}, {654, 813}}";
+		};
+	};
+	89F487F5147B9046005E9CED /* ofxCvContourFinder.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {621, 952}}";
+			sepNavSelRange = "{446, 9}";
+			sepNavVisRange = "{0, 1728}";
+			sepNavWindowFrame = "{{65, 18}, {654, 813}}";
+		};
+	};
+	89F487FC147B9046005E9CED /* ofxCvHaarFinder.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {747, 3318}}";
+			sepNavSelRange = "{1921, 84}";
+			sepNavVisRange = "{1240, 1456}";
+		};
+	};
+	89F487FD147B9046005E9CED /* ofxCvHaarFinder.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {873, 770}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1641}";
+			sepNavWindowFrame = "{{42, 39}, {654, 813}}";
+		};
+	};
+	89F4880F147B9046005E9CED /* opencvHaarFinderExample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = opencvHaarFinderExample;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	89F4883B147B9060005E9CED /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	89F4883C147B9060005E9CED /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	89F4883E147B906D005E9CED /* maximilian.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {786, 5054}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1988, 772}";
+		};
+	};
+	89F4887C147B96A3005E9CED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1F0A3A1BDC003C02F2 /* testApp.h */;
+		name = "testApp.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 123;
+		vrLoc = 0;
+	};
+	89F4888B147B96BE005E9CED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1F0A3A1BDC003C02F2 /* testApp.h */;
+		name = "testApp.h: 26";
+		rLen = 0;
+		rLoc = 588;
+		rType = 0;
+		vrLen = 725;
+		vrLoc = 0;
+	};
+	89F4888C147B96BE005E9CED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 12";
+		rLen = 0;
+		rLoc = 764;
+		rType = 0;
+		vrLen = 1340;
+		vrLoc = 0;
+	};
+	89F488A0147B9A26005E9CED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 36";
+		rLen = 0;
+		rLoc = 1076;
+		rType = 0;
+		vrLen = 1006;
+		vrLoc = 699;
+	};
+	89F488A1147B9A26005E9CED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 89F4883E147B906D005E9CED /* maximilian.h */;
+		name = "maximilian.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1579;
+		vrLoc = 0;
+	};
+	89F488A2147B9A26005E9CED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 89F4883E147B906D005E9CED /* maximilian.h */;
+		name = "maximilian.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 772;
+		vrLoc = 1988;
+	};
+	89F488A3147B9A26005E9CED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 10";
+		rLen = 0;
+		rLoc = 276;
+		rType = 0;
+		vrLen = 1405;
+		vrLoc = 117;
+	};
+	E4B69B4C0A3A1720003C02F2 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 89F4880F147B9046005E9CED /* opencvHaarFinderExample */;
+		activeTarget = E4B69B5A0A3A1756003C02F2 /* opencvHaarFinderExample */;
+		addToTargets = (
+			E4B69B5A0A3A1756003C02F2 /* opencvHaarFinderExample */,
+		);
+		codeSenseManager = 89F4883C147B9060005E9CED /* Code sense */;
+		executables = (
+			89F4880F147B9046005E9CED /* opencvHaarFinderExample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					608,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 343642182;
+			PBXWorkspaceStateSaveDate = 343642182;
+		};
+		perUserProjectItems = {
+			89F4887C147B96A3005E9CED /* PBXTextBookmark */ = 89F4887C147B96A3005E9CED /* PBXTextBookmark */;
+			89F4888B147B96BE005E9CED /* PBXTextBookmark */ = 89F4888B147B96BE005E9CED /* PBXTextBookmark */;
+			89F4888C147B96BE005E9CED /* PBXTextBookmark */ = 89F4888C147B96BE005E9CED /* PBXTextBookmark */;
+			89F488A0147B9A26005E9CED /* PBXTextBookmark */ = 89F488A0147B9A26005E9CED /* PBXTextBookmark */;
+			89F488A1147B9A26005E9CED /* PBXTextBookmark */ = 89F488A1147B9A26005E9CED /* PBXTextBookmark */;
+			89F488A2147B9A26005E9CED /* PBXTextBookmark */ = 89F488A2147B9A26005E9CED /* PBXTextBookmark */;
+			89F488A3147B9A26005E9CED /* PBXTextBookmark */ = 89F488A3147B9A26005E9CED /* PBXTextBookmark */;
+		};
+		sourceControlManager = 89F4883B147B9060005E9CED /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E4B69B5A0A3A1756003C02F2 /* opencvHaarFinderExample */ = {
+		activeExec = 0;
+		executables = (
+			89F4880F147B9046005E9CED /* opencvHaarFinderExample */,
+		);
+	};
+	E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {595, 1400}}";
+			sepNavSelRange = "{276, 0}";
+			sepNavVisRange = "{117, 1405}";
+			sepNavWindowFrame = "{{42, 39}, {654, 813}}";
+		};
+	};
+	E4B69E1F0A3A1BDC003C02F2 /* testApp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {595, 709}}";
+			sepNavSelRange = "{588, 0}";
+			sepNavVisRange = "{0, 725}";
+			sepNavWindowFrame = "{{19, 60}, {654, 813}}";
+		};
+	};
+}
